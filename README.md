@@ -22,7 +22,7 @@ This project provides a comprehensive statistical and machine learning analysis 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── README.md                               # This file
